@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:  Helvetica, Arial,, sans-serif;
 }
 button {
   padding: 10px;
@@ -16,7 +16,7 @@ button {
 
   position: absolute;
   background: linear-gradient(to left, #2193b0, #6dd5ed);
-  color: black;
+  color: white;
   margin: 0;
 }
 
@@ -80,7 +80,7 @@ button {
   width: 100%;
 }
 #startScreenShare {
-  background: white;
+  background: DimGrey;
   margin: 5px;
 }
 .credits {
