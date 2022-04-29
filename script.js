@@ -146,9 +146,3 @@ document.querySelector("#createRoom").addEventListener("click", function () {
 document.querySelector("#joinRoom").addEventListener("click", function () {
   joinRoom();
 });
-function leaveStream() {
- <a href="#" onclick="https://main--chirag004-p2p-chat.netlify.app/">
-}
-
-
-}
