@@ -85,6 +85,9 @@ button {
 }
 
 .Leave Room {
+  padding: 10px;
+  border-radius: 20px;
+  margin: 3px;
 background: white;
   margin: 5px;  
   
