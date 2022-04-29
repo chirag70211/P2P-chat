@@ -74,7 +74,7 @@ button {
 }
 .meet-controls-bar {
   bottom: 0;
-  background-color: linear-gradient(to bottom, #410099, #E0FFFF);
+  background-color: #410099;
   left: 0;
   position: absolute;
   width: 100%;
