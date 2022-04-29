@@ -149,3 +149,4 @@ document.querySelector("#joinRoom").addEventListener("click", function () {
 function leaveStream() {
   <button onclick="https://main--chirag004-p2p-chat.netlify.app/">Leave Stream</button>
 });
+}
