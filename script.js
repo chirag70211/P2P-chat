@@ -136,9 +136,7 @@ function stopScreenSharing() {
 }
 
 function leaveroom() {
-  for(let i = 0; localTracks.length > i; i++){
-        localTracks[i].stop()
-        localTracks[i].close()
+ <a href="#leaveroom" onclick="https://main--chirag004-p2p-chat.netlify.app/">
     }
 
 
