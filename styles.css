@@ -32,7 +32,7 @@ button {
   margin-left: -150px;
   padding: 5px;
   color: #fff;
-  background: linear-gradient(to bottom, #2193b0, #6dd5ed);
+  background: LightCyan;
   text-align: center;
 }
 
@@ -74,7 +74,7 @@ button {
 }
 .meet-controls-bar {
   bottom: 0;
-  background-color: DarkSlateGrey;
+  background-color: black;
   left: 0;
   position: absolute;
   width: 100%;
