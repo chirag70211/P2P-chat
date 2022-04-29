@@ -84,12 +84,11 @@ button {
   margin: 5px;
 }
 
-.Leave Room {
-  padding: 10px;
+form { display:block;padding: 10px; border-radius: 20px; margin: 3px;}
+input.submit { padding: 10px;
   border-radius: 20px;
-  margin: 3px;
-background: white;
-  margin: 5px;  
+  background: white;
+  margin: 5px;}
   
 }
 .credits {
