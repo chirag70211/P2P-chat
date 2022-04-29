@@ -9,7 +9,7 @@ button {
 }
 .title {
   top: 0;
-  width: 100%;
+  width: 200%;
   max-width: 100%;
   z-index: 1;
   display: block;
