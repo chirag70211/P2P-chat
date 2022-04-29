@@ -74,7 +74,7 @@ button {
 }
 .meet-controls-bar {
   bottom: 0;
-  background-color: black;
+  background-color: linear-gradient(to bottom, #410099, #E0FFFF);
   left: 0;
   position: absolute;
   width: 100%;
@@ -90,7 +90,6 @@ input[type=submit] { padding: 10px;
   background: white;
   margin: 5px;}
   
-}
 .credits {
   color: white;
   font-size: 0.8125rem;
