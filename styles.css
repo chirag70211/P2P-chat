@@ -58,7 +58,7 @@ button {
   height: 100%;
   width: 100%;
   left: 0;
-  background-color: white;
+  background-color: lightgrey;
   position: absolute;
 }
 
@@ -92,6 +92,6 @@ input[type=submit] { padding: 10px;
   
 .credits {
   color: white;
-  font-size: 0.8125rem;
+  font-size: 0.10rem;
   padding: 0.5rem;
 }
