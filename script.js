@@ -154,6 +154,4 @@ document.querySelector("#joinRoom").addEventListener("click", function () {
   joinRoom();
 });
 
-document.querySelector("#leave").addEventListener('click', function () {
-  leaveRoom
-});
+
