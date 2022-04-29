@@ -85,7 +85,7 @@ button {
 }
 
 
-input.submit { padding: 10px;
+input[type=submit] { padding: 10px;
   border-radius: 20px;
   background: white;
   margin: 5px;}
