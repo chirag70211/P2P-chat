@@ -134,6 +134,15 @@ function stopScreenSharing() {
   });
   screenSharing = false;
 }
+
+function leaveroom() {
+  for(let i = 0; localTracks.length > i; i++){
+        localTracks[i].stop()
+        localTracks[i].close()
+    }
+
+
+
 document
   .querySelector("#startScreenShare")
   .addEventListener("click", function () {
@@ -145,4 +154,8 @@ document.querySelector("#createRoom").addEventListener("click", function () {
 
 document.querySelector("#joinRoom").addEventListener("click", function () {
   joinRoom();
+});
+
+document.querySelector("#leave").addEventListener('click', function () {
+  leaveRoom
 });
