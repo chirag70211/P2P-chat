@@ -135,10 +135,6 @@ function stopScreenSharing() {
   screenSharing = false;
 }
 
-
-
-
-
 document
   .querySelector("#startScreenShare")
   .addEventListener("click", function () {
