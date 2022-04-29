@@ -135,9 +135,7 @@ function stopScreenSharing() {
   screenSharing = false;
 }
 
-function leaveroom() {
- <a href="#leaveroom" onclick="https://main--chirag004-p2p-chat.netlify.app/">
-    }
+
 
 
 
